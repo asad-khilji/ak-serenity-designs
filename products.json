@@ -1,0 +1,21 @@
+
+{
+  "updatedAt": "2025-08-01",
+  "currency": "USD",
+  "products": [
+    {
+      "id": "sku-1001",
+      "name": "Happy Monday",
+      "price": 29.99,
+      "category": "Templates",
+      "brand": "Serenity",
+      "rating": 4.6,
+      "reviews": 184,
+      "stock": 42,
+      "featured": true,
+      "new": false,
+      "description": "",
+      "image": "happy-monday.png"
+    }
+  ]
+}
