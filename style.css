@@ -240,12 +240,17 @@ ul {
     border: 1px solid var(--border-color);
     border-radius: 12px;
     overflow: hidden;
-    transition: var(--transition);
+    /* Hover transform/shadow removed completely */
 }
 
-.template-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.05);
+.template-img {
+    height: 220px;
+    width: 100%;
+    position: relative;
+    padding: 1.5rem;
+    display: flex;
+    align-items: flex-start;
+    overflow: hidden;
 }
 
 .template-img img {
