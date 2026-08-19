@@ -19,7 +19,7 @@
     },
      {
       "id": "sku-1002",
-      "name": "Cupcake of the Week",
+      "name": "Dessert of the Week",
       "price": 2.99,
       "category": "Templates",
       "brand": "Serenity",
@@ -29,7 +29,7 @@
       "featured": true,
       "new": false,
       "description": "",
-      "image": "cupcake-of-the-week.png"
+      "image": "dessert-of-the-week.png"
     },
     {
       "id": "sku-1003",
