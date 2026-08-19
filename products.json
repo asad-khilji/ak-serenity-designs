@@ -44,6 +44,48 @@
       "new": false,
       "description": "",
       "image": "cookie-box-special.png"
+    },
+     {
+      "id": "sku-1004",
+      "name": "Modern Price List",
+      "price": 2.99,
+      "category": "Templates",
+      "brand": "Serenity",
+      "rating": 4.6,
+      "reviews": 184,
+      "stock": 42,
+      "featured": true,
+      "new": false,
+      "description": "",
+      "image": "modern-price-list.png"
+    },
+     {
+      "id": "sku-1005",
+      "name": "Book Appointments",
+      "price": 2.99,
+      "category": "Templates",
+      "brand": "Serenity",
+      "rating": 4.6,
+      "reviews": 184,
+      "stock": 42,
+      "featured": true,
+      "new": false,
+      "description": "",
+      "image": "appointments.png"
+    },
+     {
+      "id": "sku-1006",
+      "name": "Client Reviews",
+      "price": 2.99,
+      "category": "Templates",
+      "brand": "Serenity",
+      "rating": 4.6,
+      "reviews": 184,
+      "stock": 42,
+      "featured": true,
+      "new": false,
+      "description": "",
+      "image": "client-reviews.png"
     }
   ]
 }
