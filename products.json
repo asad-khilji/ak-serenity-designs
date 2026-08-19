@@ -57,7 +57,7 @@
       "featured": true,
       "new": false,
       "description": "",
-      "image": "modern-price-list.png"
+      "image": "modern-price-list.jpeg"
     },
      {
       "id": "sku-1005",
@@ -71,7 +71,7 @@
       "featured": true,
       "new": false,
       "description": "",
-      "image": "appointments.png"
+      "image": "appointments.jpeg"
     },
      {
       "id": "sku-1006",
@@ -85,7 +85,7 @@
       "featured": true,
       "new": false,
       "description": "",
-      "image": "client-reviews.png"
+      "image": "client-reviews.jpeg"
     }
   ]
 }
