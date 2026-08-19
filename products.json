@@ -5,8 +5,8 @@
   "products": [
     {
       "id": "sku-1001",
-      "name": "Happy Monday",
-      "price": 29.99,
+      "name": "Custom Cake Creation",
+      "price": 2.99,
       "category": "Templates",
       "brand": "Serenity",
       "rating": 4.6,
@@ -15,7 +15,35 @@
       "featured": true,
       "new": false,
       "description": "",
-      "image": "happy-monday.png"
+      "image": "custom-cake-creation.png"
+    },
+     {
+      "id": "sku-1002",
+      "name": "Cupcake of the Week",
+      "price": 2.99,
+      "category": "Templates",
+      "brand": "Serenity",
+      "rating": 4.6,
+      "reviews": 184,
+      "stock": 42,
+      "featured": true,
+      "new": false,
+      "description": "",
+      "image": "cupcake-of-the-week.png"
+    },
+    {
+      "id": "sku-1003",
+      "name": "Cookie Box Special",
+      "price": 2.99,
+      "category": "Templates",
+      "brand": "Serenity",
+      "rating": 4.6,
+      "reviews": 184,
+      "stock": 42,
+      "featured": true,
+      "new": false,
+      "description": "",
+      "image": "cookie-box-special.png"
     }
   ]
 }
